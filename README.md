@@ -4,7 +4,7 @@
   <strong>AI-powered resume tailoring tool</strong> that takes your resume and a job description and generates a customized version that matches the JD for better ATS compatibility.
 </p>
 
----
+--- 
 
 ## 🧰 Tech Stack
 
