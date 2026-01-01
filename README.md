@@ -60,7 +60,3 @@ Ideal for:
 3. **AI Tailoring** — The system analyzes and customizes your resume  
 4. **Download Output** — Export a tailored resume ready for submission
 
----
-
-# Start FastAPI backend
-uvicorn main:app --reload
