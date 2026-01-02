@@ -1,12 +1,5 @@
 # 🚀 SyncResume
 
-<p align="center">
-  Tailor your resume instantly for any job description!
-  <strong> AI-powered resume tailoring tool</strong> that takes your resume and a job description and generates a customized version that matches the JD for better ATS compatibility.
-</p>
-
---- 
-
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -27,6 +20,13 @@
 </p>
 
 ---
+
+<p align="center">
+  Tailor your resume instantly for any job description!
+  <strong> AI-powered resume tailoring tool</strong> that takes your resume and a job description and generates a customized version that matches the JD for better ATS compatibility.
+</p>
+
+--- 
 
 ## 📌 Project Overview
 
