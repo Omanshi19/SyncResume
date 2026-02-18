@@ -10,7 +10,7 @@
   <!-- Backend -->   
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" alt="FastAPI">    
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">   
-  
+   
   <!-- AI / NLP -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
